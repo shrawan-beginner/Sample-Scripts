@@ -1,2 +1,2 @@
 # Sample-Scripts
-This repo will contain all small section/scripts that I will create for practice like Read More, Lightbox Gallery, Accordion, etc.,
+This repo will contain all small sections and scripts that will help in integrating features like Read More, LightBox Gallery, Accordion. etc.,
