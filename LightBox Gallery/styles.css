@@ -1,0 +1,46 @@
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.image-list {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 10px;
+}
+
+.image {
+
+    width: calc(25% - 10px);
+    height: auto;
+}
+
+.image img {
+    width: 100%;
+}
+
+.popup-modal {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    /* background-color: #000000; */
+    opacity: 1;
+    width: 100%;
+}
+
+.hidden {
+    display: none;
+}
+
+.popup-modal img {
+    margin: 0 auto;
+    max-width: 100%;
+}
+
+.close-button {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+}
